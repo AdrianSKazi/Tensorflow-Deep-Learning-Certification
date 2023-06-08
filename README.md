@@ -1,2 +1,3 @@
 # Deep-Learning
-Functions used in deep learning pipeline
+
+Deep Learning notebooks and helper functions
